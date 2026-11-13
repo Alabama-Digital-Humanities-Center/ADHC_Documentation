@@ -1,0 +1,5 @@
+# Digitorium 2018 Plenary
+
+Dr. Bryan Carter, University of Arizona
+
+Dr. Bryan Carter received his Ph.D. at the University of Missouri-Columbia and is currently the Director of the Center for Digital Humanities and an Associate Professor in Africana Studies, at the University of Arizona. He specializes in African American literature of the 20th Century with a primary focus on the Harlem Renaissance. His research also focuses on Digital Humanities/Africana Studies. He has published numerous articles on his doctoral project, Virtual Harlem, which is an immersive representation of a portion of Harlem, NY as it existed during the 1920s Jazz Age and Harlem Renaissance. This project was one of the earliest full virtual reality environments created for use in the humanities and certainly one of the first for use in an African American literature course. Virtual Harlem has been presented at venues in Paris, The Netherlands, Sweden, Hungary, and multiple sites in the US. Dr. Carter's research centers on how the use of traditional and advanced interactive and immersive technologies changes the dynamic within the learning space.

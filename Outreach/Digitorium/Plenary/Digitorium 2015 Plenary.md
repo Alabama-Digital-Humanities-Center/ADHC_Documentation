@@ -1,0 +1,3 @@
+# Digitorium 2015 Plenary
+
+We are fortunate in welcoming two plenary speakers to anchor Digitorium, both of whom are playing leading roles in creating innovative digital scholarship. Full details of their presentations will be made available nearer to the time of the conference, but in the meantime we are excited to announce our keynote speakers as Professor Elizabeth Maddock-Dillon (Northeastern University) and Professor David Lee Miller (University of South Carolina), who will address Digitorium's themes of methods and the communities which it can build.

@@ -1,0 +1,9 @@
+# Digitorium 2019 Plenary
+
+Dr. Sarah Ketchley. University of Washington
+
+Dr. Sarah Ketchley is a lecturer in the Department of Near Eastern Languages and Civilization at the University of Washington. Her current research and teaching interests include the history of the 'Golden Age' Egyptology at the end of the nineteenth and beginning of the twentieth centuries. She has developed and taught introductory-level courses in Digital Humanities for undergraduate and graduate students. In 2012, Ketchley co-founded Newbook Digital Texts, an innovative digital humanities publishing house re-imagining and restructuring traditional academic research, publication, and education. Newbook's flourishing internship program offers students the unique opportunity to work with primary source material, to transcribe and encode texts, and to create digital maps and visualizations.
+
+Dr. Sharon Leon, Michigan State University
+
+Dr. Sharon Leon is an associate professor in History at Michigan State University. Leon has a two-pronged interest research focus. She is working on a digital project looking at the communities and experiences of people enslaved and sold by the Maryland Province of the Society of Jesus in the 18th and 19th centuries. Sharon is also prolific in the field of Digital Public History. She is the Director of the Omeka web publishing platform family. She has also served leadership roles in many projects from the Roy Rosenzweig Center for History and New Media at George Mason University as the Director of Public Projects. Some of those projects include Histories of the National Mall, September 11 Digital Archive, Bracero History Archive, and Scripto.
